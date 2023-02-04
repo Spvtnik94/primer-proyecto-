@@ -2,16 +2,33 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Lilita One', cursive;
   }
 
   nav {
     display:flex;
     justify-content: space-between;
+    background: blue;
+  }
 
+  .icon {
+    margin-left: 3%;
+    font-size: 200%;
+    margin-top: 1%;
+    color: white;
+  }
+
+  .boton-ham {
+    background: none;
+    border: none;
+    font-size: 150%;
+    margin-top: 0.5%;
+    margin-right: 2%;
+    color: white;
   }
   
   img {
-    max-width: 100%;
+    max-width: 95%;
     margin-top: 15px;
     margin-left: 10px;
     margin-right: 10px;
@@ -19,11 +36,28 @@
     
   }
 
-  .h1{
+  h1{
     size: 400px;
-    align-self: 
+    width: 70%;
+    margin-left: 2%;
+    margin-bottom: 2%;
   }
 
-  p{
-    padding
+  p {
+    width: 90%;
+    margin-left: 2%;
+    line-height: 1.5rem;
+  }
+
+  .boton-read {
+    margin-left: 2%;
+    margin-top: 5%;
+    padding: 2%;
+    background: lightgreen;
+    border: none;
+    color: white;
+  }
+
+  .display-menu {
+    display: none;
   }
