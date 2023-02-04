@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  nav {
+    display:flex;
+    justify-content: space-between;
+
+  }
+  
+  img {
+    max-width: 100%;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    
+  }
+
+  .h1{
+    size: 400px;
+    align-self: 
+  }
+
+  p{
+    padding
+  }
