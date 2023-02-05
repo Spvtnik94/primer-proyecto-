@@ -89,3 +89,54 @@
   hr {
     margin: 5%;
   }
+
+  .titulo-num{
+    color:gray;
+    font-size:35px;
+  }
+
+   .text2{
+    font-size:25px;
+   }
+
+   .paragra{
+    font-size:18px;
+    line-height: px;
+
+   }
+
+  .retro-pc{
+    display:flex;
+  }
+
+  .subretro{
+    margin-top:2%;
+    padding-right:30%;
+    line-height: 50px;
+  }
+
+  .laptop{
+    display:flex;
+  
+  }
+
+  .sublaptop{
+    margin-top:2%;
+    padding-right: 20%;
+    line-height: 50px;
+  }
+
+  .gaming{
+    display:flex;
+  }
+
+  .subgaming{
+    margin-top:2%;
+    padding-right: 25%;
+    line-height: 50px;
+  }
+
+  .contenedor-3{
+    margin:2%;
+    margin-top:10%
+  }
