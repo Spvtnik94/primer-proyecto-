@@ -61,3 +61,31 @@
   .display-menu {
     display: none;
   }
+
+  .container {
+    margin: 3%;
+  }
+
+  .card-container {
+    border: 1px solid ;
+    padding: 2%;
+    margin-top: 15%;
+    background: rgb(0, 0, 80);
+  }
+
+  .title {
+    margin-top: 2%;
+    padding: 2%;
+    color: orange;
+  }
+
+  .box {
+    padding: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+  }
+
+  hr {
+    margin: 5%;
+  }
