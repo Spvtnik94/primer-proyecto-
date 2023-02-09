@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lilita One', cursive;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  background: blue;
+}
+
+.icon {
+  margin-left: 3%;
+  font-size: 200%;
+  margin-top: 1%;
+  color: white;
+}
+
+.boton-ham {
+  background: none;
+  border: none;
+  font-size: 150%;
+  margin-top: 0.5%;
+  margin-right: 2%;
+  color: white;
+}
+
+img {
+  max-width: 95%;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 40px;
+  width: 70%;
+  margin-left: 2%;
+  margin-bottom: 2%;
+}
+
+p {
+  width: 90%;
+  margin-left: 2%;
+  line-height: 1.5rem;
+}
+
+.boton-read {
+  margin-left: 2%;
+  margin-top: 5%;
+  padding: 2%;
+  background: lightgreen;
+  border: none;
+  color: white;
+}
+
+.display-menu {
+  display: none;
+}
+
+.container {
+  margin: 3%;
+}
+
+.card-container {
+  border: 1px solid;
+  padding: 2%;
+  margin-top: 15%;
+  background: rgb(0, 0, 80);
+}
+
+.title {
+  margin-top: 2%;
+  padding: 2%;
+  color: orange;
+}
+
+.box {
+  padding: 2%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: white;
+}
+
+hr {
+  margin: 5%;
+}
+
+.titulo-num {
+  color: gray;
+  font-size: 35px;
+}
+
+.text2 {
+  font-size: 25px;
+}
+
+.paragra {
+  font-size: 18px;
+}
+
+.retro-pc {
+  display: flex;
+}
+
+.subretro {
+  margin-top: 2%;
+  padding-right: 30%;
+  line-height: 50px;
+}
+
+.laptop {
+  display: flex;
+}
+
+.sublaptop {
+  margin-top: 2%;
+  padding-right: 20%;
+  line-height: 50px;
+}
+
+.gaming {
+  display: flex;
+}
+
+.subgaming {
+  margin-top: 2%;
+  padding-right: 25%;
+  line-height: 50px;
+}
+
+.contenedor-3 {
+  margin: 2%;
+  margin-top: 10%;
+}
