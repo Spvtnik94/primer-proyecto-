@@ -1,142 +1,138 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Lilita One', cursive;
-  }
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lilita One', cursive;
+}
 
-  nav {
-    display:flex;
-    justify-content: space-between;
-    background: blue;
-  }
+nav {
+  display: flex;
+  justify-content: space-between;
+  background: blue;
+}
 
-  .icon {
-    margin-left: 3%;
-    font-size: 200%;
-    margin-top: 1%;
-    color: white;
-  }
+.icon {
+  margin-left: 3%;
+  font-size: 200%;
+  margin-top: 1%;
+  color: white;
+}
 
-  .boton-ham {
-    background: none;
-    border: none;
-    font-size: 150%;
-    margin-top: 0.5%;
-    margin-right: 2%;
-    color: white;
-  }
-  
-  img {
-    max-width: 95%;
-    margin-top: 15px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 15px;
-    
-  }
+.boton-ham {
+  background: none;
+  border: none;
+  font-size: 150%;
+  margin-top: 0.5%;
+  margin-right: 2%;
+  color: white;
+}
 
-  h1{
-    size: 400px;
-    width: 70%;
-    margin-left: 2%;
-    margin-bottom: 2%;
-  }
+img {
+  max-width: 95%;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+}
 
-  p {
-    width: 90%;
-    margin-left: 2%;
-    line-height: 1.5rem;
-  }
+h1 {
+  font-size: 40px;
+  width: 70%;
+  margin-left: 2%;
+  margin-bottom: 2%;
+}
 
-  .boton-read {
-    margin-left: 2%;
-    margin-top: 5%;
-    padding: 2%;
-    background: lightgreen;
-    border: none;
-    color: white;
-  }
+p {
+  width: 90%;
+  margin-left: 2%;
+  line-height: 1.5rem;
+}
 
-  .display-menu {
-    display: none;
-  }
+.boton-read {
+  margin-left: 2%;
+  margin-top: 5%;
+  padding: 2%;
+  background: lightgreen;
+  border: none;
+  color: white;
+}
 
-  .container {
-    margin: 3%;
-  }
+.display-menu {
+  display: none;
+}
 
-  .card-container {
-    border: 1px solid ;
-    padding: 2%;
-    margin-top: 15%;
-    background: rgb(0, 0, 80);
-  }
+.container {
+  margin: 3%;
+}
 
-  .title {
-    margin-top: 2%;
-    padding: 2%;
-    color: orange;
-  }
+.card-container {
+  border: 1px solid;
+  padding: 2%;
+  margin-top: 15%;
+  background: rgb(0, 0, 80);
+}
 
-  .box {
-    padding: 2%;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    color: white;
-  }
+.title {
+  margin-top: 2%;
+  padding: 2%;
+  color: orange;
+}
 
-  hr {
-    margin: 5%;
-  }
+.box {
+  padding: 2%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: white;
+}
 
-  .titulo-num{
-    color:gray;
-    font-size:35px;
-  }
+hr {
+  margin: 5%;
+}
 
-   .text2{
-    font-size:25px;
-   }
+.titulo-num {
+  color: gray;
+  font-size: 35px;
+}
 
-   .paragra{
-    font-size:18px;
-    line-height: px;
+.text2 {
+  font-size: 25px;
+}
 
-   }
+.paragra {
+  font-size: 18px;
+}
 
-  .retro-pc{
-    display:flex;
-  }
+.retro-pc {
+  display: flex;
+}
 
-  .subretro{
-    margin-top:2%;
-    padding-right:30%;
-    line-height: 50px;
-  }
+.subretro {
+  margin-top: 2%;
+  padding-right: 30%;
+  line-height: 50px;
+}
 
-  .laptop{
-    display:flex;
-  
-  }
+.laptop {
+  display: flex;
+}
 
-  .sublaptop{
-    margin-top:2%;
-    padding-right: 20%;
-    line-height: 50px;
-  }
+.sublaptop {
+  margin-top: 2%;
+  padding-right: 20%;
+  line-height: 50px;
+}
 
-  .gaming{
-    display:flex;
-  }
+.gaming {
+  display: flex;
+}
 
-  .subgaming{
-    margin-top:2%;
-    padding-right: 25%;
-    line-height: 50px;
-  }
+.subgaming {
+  margin-top: 2%;
+  padding-right: 25%;
+  line-height: 50px;
+}
 
-  .contenedor-3{
-    margin:2%;
-    margin-top:10%
-  }
+.contenedor-3 {
+  margin: 2%;
+  margin-top: 10%;
+}
